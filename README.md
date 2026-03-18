@@ -2,7 +2,7 @@
 ## Hey guys 🤙🏾
 
 I am an emerging multimedia designer with focused skills in UX Design and Graphic Design. 
-I'm currently enrolled in The Arizona State University web development program, with the endgoal of developing into a UX Engineer. My focus is to better collaborate cross-practice, and build more immersive, engaging, digital experiences for e-commerce and gaming platforms. 
+I'm currently enrolled in The Arizona State University web development program, with the endgoal of developing into a UX Engineer. My focus is to better foster efficient collaboration cross-practice, building more immersive, engaging, digital experiences for e-commerce and gaming platforms. 
 <br></br>
 In my free time:
 <ul>
